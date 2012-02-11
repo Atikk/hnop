@@ -1,0 +1,9 @@
+Name:			nop
+Version:		0.2
+License-file:	LICENSE
+Author:			Ashley Yakeley <ashley@semantic.org>
+Maintainer:		Ashley Yakeley <ashley@semantic.org>
+build-depends:	base
+Synopsis:		does nothing
+Exposed-Modules:
+	Control.Nop
